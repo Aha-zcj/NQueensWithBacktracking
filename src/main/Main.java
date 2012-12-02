@@ -2,7 +2,12 @@ package main;
 import java.util.Scanner;
 
 
-
+/**
+ * Copyright (C), 2001-2012, Aha
+ * <br/>Date:2012-11-12 
+ * @author  Aha tzl77258511@gmail.com
+ * @version  1.0
+ */
 public class Main {
 	
 	// sum用来记录皇后放置成功的不同布局数；upperlim用来标记所有列都已经放置好了皇后。
